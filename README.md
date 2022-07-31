@@ -1,6 +1,6 @@
 # Obsidian HTML Entity Auto-replace
 
-Automatically replaces any HTML entities you type, such as &amp;alpha; with their actual counterparts, α.
+Automatically replaces any HTML entities you type, such as &amp;alpha; with their decoded counterparts, such as α.
 
 No configuration, just automatically converts any html entities you type, as soon as you type them.
 

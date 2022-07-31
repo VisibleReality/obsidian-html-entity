@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-html-entity",
 	"name": "HTML Entity Auto-replace",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"minAppVersion": "0.12.0",
 	"description": "This plugin automatically detects when you enter a HTML entity and replaces it with it's decoded character",
 	"author": "VisibleReality",
