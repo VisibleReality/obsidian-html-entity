@@ -11,7 +11,7 @@ import {
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const he = require("he");
 
-export default class MyPlugin extends Plugin {
+export default class HTMLEntityPlugin extends Plugin {
 	prefixCharacter = "&"
 	suffixCharacter = ";"
 
